@@ -1,0 +1,11 @@
+prompt 1: quero que ele extraia e passe pare um dataframe
+
+
+
+prompt 2: now please continue the data processing, justify the decisions and make a machine learning model, use at least 3 algorythms to test performance, my target is dauReal, adjust hyperparameters, use metrics and graphics to evaluate, maybe cross validation , save the model on drive at /content/drive/MyDrive/Codes/Rankmyapp/
+
+prompt 3: me dê um código apenas para identificar os outliers baseado no 1.5IQT
+
+prompt 4: quantile_transformer realmente ajuda com outliers?
+prompt 5: escreva como fazer esses gráficos: gráficos de resíduos, gráficos de erros preditivos
+
